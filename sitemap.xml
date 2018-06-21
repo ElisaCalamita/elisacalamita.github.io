@@ -90,16 +90,7 @@
       <image:loc>http://www.elisacalamita.com/images/hartfalen.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/tulp-1-met-lijst.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/tulp-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/voorkant%20op%20weg.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/spread-op-weg.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/after-the-storm.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.elisacalamita.com/images/de-visuele-boodschap2.jpg</image:loc>
@@ -112,6 +103,18 @@
     </image:image>
     <image:image>
       <image:loc>http://www.elisacalamita.com/images/blokkendoos-2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/tulp-1-met-lijst.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/tulp-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/voorkant%20op%20weg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/spread-op-weg.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.elisacalamita.com/images/visitekaartjes.jpg</image:loc>
@@ -147,7 +150,7 @@
       <image:loc>http://www.elisacalamita.com/images/insta.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/fortunabeads.gif</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/portret-2-geerten.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.elisacalamita.com/images/beginframe0.jpg</image:loc>
@@ -157,6 +160,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.elisacalamita.com/images/krant.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/fortunabeads-2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.elisacalamita.com/images/oude%20computer%20.png</image:loc>
@@ -192,6 +198,9 @@
       <image:loc>http://www.elisacalamita.com/images/krant.gif</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.elisacalamita.com/images/fortunabeads.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.elisacalamita.com/images/niet-zo,-maar-zo-1.gif</image:loc>
     </image:image>
     <image:image>
@@ -208,15 +217,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.elisacalamita.com/images/rijdende-wiel.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/after-the-storm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/fortunabeads-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/portret-2-geerten.jpg</image:loc>
     </image:image>
   </url>
   <url>
