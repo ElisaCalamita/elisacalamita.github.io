@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.elisacalamita.com" resolutions="1x" timestamp="1529571241001">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.elisacalamita.com" resolutions="1x" timestamp="1532981091561">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="naamloos-11.css" crc="4228895581" ref="naamloos-11"/>
@@ -41,6 +41,7 @@
     <file name="raymond-carver-kopie.css" crc="3798963306" ref="raymond-carver-kopie"/>
     <file name="naamloos-10.css" crc="4021525403" ref="naamloos-10"/>
     <file name="spanjer-accountants.css" crc="297417686" ref="spanjer-accountants"/>
+    <file name="blokkendoos.css" crc="4224135709" ref="blokkendoos"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="3881825301" seo="true" mt="1497526064000"/>
@@ -49,13 +50,13 @@
     <file name="14.mp4" crc="460325089" seo="true" mt="1527163193000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek"/>
-    <file name="museutils.js" crc="4232573551" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek"/>
-    <file name="whatinput.js" crc="86476730" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek"/>
-    <file name="museconfig.js" crc="4152223963" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos"/>
+    <file name="museutils.js" crc="4232573551" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos"/>
+    <file name="whatinput.js" crc="86476730" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos"/>
+    <file name="museconfig.js" crc="4152223963" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="home:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-20"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek"/>
-    <file name="require.js" crc="4234670167" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos"/>
+    <file name="require.js" crc="4234670167" ref="home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:nissa-la-bella:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos"/>
   </folder>
   <folder name="images">
     <file name="logo.jpg" crc="4675938" seo="true" ref="home">
@@ -83,8 +84,8 @@
       <caption webpage="home" alt=""/>
     </file>
     <file name="after-the-storm.jpg" crc="4031408800" seo="true" ref="home:monotype">
-      <caption webpage="monotype" alt=""/>
       <caption webpage="home" alt=""/>
+      <caption webpage="monotype" alt=""/>
     </file>
     <file name="de-visuele-boodschap2.jpg" crc="4243928085" seo="true" ref="home">
       <caption webpage="home" alt=""/>
@@ -893,7 +894,7 @@
     <file name="logo (finalv2).jpg" crc="4039352749" seo="true" ref="salario">
       <caption webpage="salario" alt=""/>
     </file>
-    <file name="salario-logo-design.jpg" crc="4102317799" seo="true" ref="salario">
+    <file name="salario-logo-design.jpg" crc="4286100448" seo="true" ref="salario">
       <caption webpage="salario" alt=""/>
     </file>
     <file name="visitekaartjes-salario.jpg" crc="101034910" seo="true" ref="salario">
@@ -945,8 +946,19 @@
     </file>
     <file name="u12096-13.png" crc="3833772129" ref="het-grote-letterboek"/>
     <file name="u12111-4.png" crc="4157746115" ref="het-grote-letterboek"/>
+    <file name="blokkendoos-boek-2.jpg" crc="4125632718" seo="true" ref="blokkendoos">
+      <caption webpage="blokkendoos" alt=""/>
+    </file>
+    <file name="blokkendoos-boek-1.jpg" crc="3864697747" seo="true" ref="blokkendoos">
+      <caption webpage="blokkendoos" alt=""/>
+    </file>
+    <file name="u12187-12.png" crc="3781188374" ref="blokkendoos"/>
+    <file name="u12186-4.png" crc="4157746115" ref="blokkendoos"/>
+    <file name="blokken.jpg" crc="223568254" seo="true" ref="blokkendoos">
+      <caption webpage="blokkendoos" alt=""/>
+    </file>
   </folder>
-  <file name="home.html" crc="3948784790" seo="true" mt="1529571161363" redirect="true"/>
+  <file name="home.html" crc="3810756892" seo="true" mt="1532981061043" redirect="true"/>
   <file name="naamloos-4.html" crc="3930012164" seo="true" mt="1529481928675" redirect="true"/>
   <file name="naamloos-5.html" crc="242937690" seo="true" mt="1529481951789" redirect="true"/>
   <file name="naamloos-6.html" crc="4197978170" seo="true" mt="1529481980995" redirect="true"/>
@@ -981,9 +993,10 @@
   <file name="raymond-carver-kopie.html" crc="138687747" seo="true" mt="1529536916306" redirect="true"/>
   <file name="krant.html" crc="3903941441" seo="true" mt="1529536330343" redirect="true"/>
   <file name="monotype.html" crc="4231296861" seo="true" mt="1529537316047" redirect="true"/>
-  <file name="salario.html" crc="76068645" seo="true" mt="1529538352850" redirect="true"/>
+  <file name="salario.html" crc="4088823142" seo="true" mt="1532963422625" redirect="true"/>
   <file name="elisa.html" crc="62428373" seo="true" mt="1529538925228" redirect="true"/>
   <file name="handleiding.html" crc="367105625" seo="true" mt="1529484450781" redirect="true"/>
   <file name="postnatale-depressie.html" crc="315346569" seo="true" mt="1529484839760" redirect="true"/>
   <file name="het-grote-letterboek.html" crc="442096691" seo="true" mt="1529546242935" redirect="true"/>
+  <file name="blokkendoos.html" crc="3817242668" seo="true" mt="1532980983068" redirect="true"/>
 </manifest>

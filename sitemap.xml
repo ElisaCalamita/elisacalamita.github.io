@@ -16,15 +16,18 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.elisacalamita.com/naamloos-21.html</loc>
-    <lastmod>2018-06-20</lastmod>
+    <loc>http://www.elisacalamita.com/tulpen.html</loc>
+    <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/steenmarter%20in%20museum.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/tulp-rood.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/steenmarter-in-museum-animatie-2.gif</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/tulp-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/tulp-3.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -62,7 +65,7 @@
   </url>
   <url>
     <loc>http://www.elisacalamita.com/home.html</loc>
-    <lastmod>2018-06-21</lastmod>
+    <lastmod>2018-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -874,45 +877,42 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.elisacalamita.com/elisa.html</loc>
-    <lastmod>2018-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/visitekaartje-rgb.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/visitekaartjes-kleur-elisa.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.elisacalamita.com/handleiding.html</loc>
+    <loc>http://www.elisacalamita.com/naamloos-21.html</loc>
     <lastmod>2018-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/handleiding.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/steenmarter%20in%20museum.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/handleiding-voorkant.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/handleiding-achterkant.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/steenmarter-in-museum-animatie-2.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://www.elisacalamita.com/tulpen.html</loc>
+    <loc>http://www.elisacalamita.com/fortuna-beads.html</loc>
     <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/tulp-rood.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/fortuna-beads.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/tulp-2.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/fortuna-beads-zak.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.elisacalamita.com/blokkendoos.html</loc>
+    <lastmod>2018-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/blokkendoos-boek-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/tulp-3.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/blokkendoos-boek-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/blokken.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1075,15 +1075,27 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.elisacalamita.com/fortuna-beads.html</loc>
+    <loc>http://www.elisacalamita.com/krant.html</loc>
     <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/fortuna-beads.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/rutte-portret.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/fortuna-beads-zak.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/olaf%20koens%20russia.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/top%20abn%20amro%20krijgt%20ton%20extra%20salaris.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/boekhouder%20in%20auschwitz-crop-u11013.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/trump-selfmade-man.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/nissa-la-bella.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1126,27 +1138,18 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.elisacalamita.com/krant.html</loc>
-    <lastmod>2018-06-21</lastmod>
+    <loc>http://www.elisacalamita.com/salario.html</loc>
+    <lastmod>2018-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/rutte-portret.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/logo%20(finalv2).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/olaf%20koens%20russia.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/salario-logo-design.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/top%20abn%20amro%20krijgt%20ton%20extra%20salaris.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/boekhouder%20in%20auschwitz-crop-u11013.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/trump-selfmade-man.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.elisacalamita.com/images/nissa-la-bella.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/visitekaartjes-salario.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1186,23 +1189,41 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.elisacalamita.com/salario.html</loc>
+    <loc>http://www.elisacalamita.com/elisa.html</loc>
     <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/logo%20(finalv2).jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/visitekaartje-rgb.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/salario-logo-design.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/visitekaartjes-kleur-elisa.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.elisacalamita.com/handleiding.html</loc>
+    <lastmod>2018-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/handleiding.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.elisacalamita.com/images/visitekaartjes-salario.jpg</image:loc>
+      <image:loc>http://www.elisacalamita.com/images/handleiding-voorkant.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.elisacalamita.com/images/handleiding-achterkant.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.elisacalamita.com/assets/14.mp4</loc>
     <lastmod>2018-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.elisacalamita.com/assets/index.html</loc>
+    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1215,12 +1236,6 @@
   <url>
     <loc>http://www.elisacalamita.com/assets/website-1.muse</loc>
     <lastmod>2017-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.elisacalamita.com/assets/index.html</loc>
-    <lastmod>2017-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
