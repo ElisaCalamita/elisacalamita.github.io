@@ -7,27 +7,111 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <title>Naamloos 23</title>
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://www.elisacalamita.com/phone/index.html"/>
+  <title>Elisa Calamita | www.elisacalamita.com</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3845859112" id="pagesheet"/>
-   </head>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4086314690"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-stramien.css?crc=4086024946"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=46319202" id="pagesheet"/>
+  <!-- JS includes -->
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
+    <!--/*
+
+*/
+-->
+ </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clip_frame grpelem" id="u7459"><!-- image -->
-    <img class="block" id="u7459_img" src="images/visitekaartje-rgb-2.gif?crc=453678529" alt="" data-image-width="1204" data-image-height="779"/>
+  <div class="clearfix borderbox" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu7459"><!-- group -->
+     <div class="clip_frame grpelem" id="u7459"><!-- image -->
+      <img class="block" id="u7459_img" src="images/visitekaartje-rgb-2.gif?crc=453678529" alt="" data-image-width="1038" data-image-height="672"/>
+     </div>
+     <a class="nonblock nontext clip_frame grpelem" id="u7488" href="home.html"><!-- image --><img class="block" id="u7488_img" src="images/visitekaartje%20rgb%202.jpg?crc=358009828" alt="" data-image-width="1038" data-image-height="672"/></a>
+    </div>
+    <div class="pointer_cursor rounded-corners clearfix colelem" id="u22036"><!-- group -->
+     <a class="block" target="_blank" href="home.html"><!-- Block link tag --></a>
+     <a class="nonblock nontext clearfix grpelem" id="u22039-4" href="home.html" target="_blank"><!-- content --><p>VIEW PORTFOLIO</p></a>
+     <div class="pointer_cursor rounded-corners clearfix grpelem" id="u22042"><!-- group -->
+      <a class="block" href="home.html"><!-- Block link tag --></a>
+      <a class="nonblock nontext clearfix grpelem" id="u22045-4" href="home.html" target="_blank"><!-- content --><p>VIEW PORTFOLIO</p></a>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="744" data-content-above-spacer="743" data-content-below-spacer="133"></div>
+    <div class="clearfix colelem" id="ppu21991"><!-- group -->
+     <div class="grpelem" id="u21991"><!-- state-based BG images -->
+      <img alt="contact" src="images/blank.gif?crc=4208392903"/>
+      <div class="fluid_height_spacer"></div>
+     </div>
+     <div class="clip_frame grpelem" id="u21992"><!-- image -->
+      <img class="block" id="u21992_img" src="images/mail.gif?crc=78027401" alt="" data-image-width="52" data-image-height="52"/>
+     </div>
+     <div class="clip_frame grpelem" id="u21994"><!-- image -->
+      <img class="block" id="u21994_img" src="images/facebook.gif?crc=331048108" alt="" data-image-width="50" data-image-height="50"/>
+     </div>
+     <div class="clip_frame grpelem" id="u21996"><!-- image -->
+      <img class="block" id="u21996_img" src="images/insta.gif?crc=4045710676" alt="" data-image-width="50" data-image-height="50"/>
+     </div>
+     <a class="nonblock nontext clip_frame grpelem" id="u21998" href="mailto:elisacalamita@hotmail.com" target="_blank"><!-- image --><img class="block" id="u21998_img" src="images/mail.jpg?crc=4253827084" alt="" data-image-width="52" data-image-height="52"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u22000" href="https://www.facebook.com/elisa.calamita.1" target="_blank"><!-- image --><img class="block" id="u22000_img" src="images/facebook.jpg?crc=4175921083" alt="" data-image-width="48" data-image-height="48"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u22002" href="https://www.instagram.com/elisacalamita_designs/" target="_blank"><!-- image --><img class="block" id="u22002_img" src="images/instagram.jpg?crc=4008770751" alt="" data-image-width="50" data-image-height="50"/></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u14897" href="https://www.facebook.com/elisa.calamita.1" target="_blank"><!-- image --><img class="block" id="u14897_img" src="images/facebook.jpg?crc=4175921083" alt="" data-image-width="48" data-image-height="48"/></a>
+     <div class="browser_width grpelem" id="u24361-bw">
+      <div id="u24361"><!-- group -->
+       <div class="clearfix" id="u24361_align_to_page">
+        <div class="clearfix grpelem" id="pu23295"><!-- group -->
+         <div class="clip_frame grpelem" id="u23295"><!-- image -->
+          <img class="block" id="u23295_img" src="images/cv.gif?crc=112097192" alt="" data-image-width="50" data-image-height="40"/>
+         </div>
+         <a class="nonblock nontext clip_frame grpelem" id="u23304" href="assets/cv-elisa-calamita.pdf"><!-- image --><img class="block" id="u23304_img" src="images/cv.jpg?crc=373274098" alt="" data-image-width="50" data-image-height="40"/></a>
+        </div>
+        <div class="clearfix grpelem" id="ppu14889"><!-- column -->
+         <div class="clearfix colelem" id="pu14889"><!-- group -->
+          <div class="clip_frame grpelem" id="u14889"><!-- image -->
+           <img class="block" id="u14889_img" src="images/mail.gif?crc=78027401" alt="" data-image-width="52" data-image-height="52"/>
+          </div>
+          <div class="clip_frame grpelem" id="u14891"><!-- image -->
+           <img class="block" id="u14891_img" src="images/facebook.gif?crc=331048108" alt="" data-image-width="50" data-image-height="50"/>
+          </div>
+          <div class="clip_frame grpelem" id="u14893"><!-- image -->
+           <img class="block" id="u14893_img" src="images/insta.gif?crc=4045710676" alt="" data-image-width="50" data-image-height="50"/>
+          </div>
+          <a class="nonblock nontext clip_frame grpelem" id="u14895" href="mailto:elisacalamita@hotmail.com" target="_blank"><!-- image --><img class="block" id="u14895_img" src="images/mail.jpg?crc=4253827084" alt="" data-image-width="52" data-image-height="52"/></a>
+          <a class="nonblock nontext clip_frame grpelem" id="u14887" href="https://www.instagram.com/elisacalamita_designs/" target="_blank"><!-- image --><img class="block" id="u14887_img" src="images/instagram.jpg?crc=4008770751" alt="" data-image-width="50" data-image-height="50"/></a>
+         </div>
+         <div class="clearfix colelem" id="u12724-4"><!-- content -->
+          <p>contact</p>
+         </div>
+        </div>
+        <div class="clearfix grpelem" id="pu23328"><!-- group -->
+         <div class="clip_frame grpelem" id="u23328"><!-- image -->
+          <img class="block" id="u23328_img" src="images/in.gif?crc=192662978" alt="" data-image-width="39" data-image-height="37"/>
+         </div>
+         <a class="nonblock nontext clip_frame grpelem" id="u23337" href="https://www.linkedin.com/in/elisa-calamita-66919916b/"><!-- image --><img class="block" id="u23337_img" src="images/in.jpg?crc=256715865" alt="" data-image-width="39" data-image-height="37"/></a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
    </div>
-   <a class="nonblock nontext clip_frame grpelem" id="u7488" href="home.html"><!-- image --><img class="block" id="u7488_img" src="images/visitekaartje%20rgb%202.jpg?crc=358009828" alt="" data-image-width="1204" data-image-height="779"/></a>
-   <a class="nonblock nontext clip_frame grpelem" id="u7357" href="home.html"><!-- image --><img class="block" id="u7357_img" src="images/click.png?crc=4089074980" alt="" data-image-width="91" data-image-height="27"/></a>
-   <div class="verticalspacer" data-offset-top="804" data-content-above-spacer="804" data-content-below-spacer="61"></div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u21991-r.png?crc=73501302" alt=""/>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -39,6 +123,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
