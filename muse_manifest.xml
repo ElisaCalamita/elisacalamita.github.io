@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.elisacalamita.com" resolutions="1x" timestamp="1537546509505">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.elisacalamita.com" resolutions="1x" timestamp="1537547073554">
   <folder name="fonts">
     <file name="raleway-bold-webfont.woff" crc="341506464"/>
     <file name="raleway-bold-webfont.eot" crc="3839014713"/>
@@ -133,9 +133,9 @@
     <file name="master_a-stramien.css" crc="4086024946" ref="video-s:expositions:spanjer-accountants:botje:algemene-voorwaarden:daiane-hemerich:bestempeld:home:about:de-visuele-boodschap:naamloos-4:het-schetsboek:op-reis:naamloos-5:commissioned:onderweg:naamloos-6:tas-radio:naamloos-7:fortuna-beads:naamloos-8:gedichten:naamloos-9:paintings:een-kleine-gebeurtenis-kopie:naamloos-10:raymond-carver-kopie:krant:monotype:salario:naamloos-11:naamloos-13:elisa:naamloos-15:naamloos-12:handleiding:naamloos-16:postnatale-depressie:naamloos-18:naamloos-14:het-grote-letterboek:naamloos-19:blokkendoos:books:interactive:index:naamloos-21:logos:tulpen:naamloos-20"/>
     <file name="video-s.css" crc="4011649866" ref="video-s"/>
     <file name="expositions.css" crc="4238925211" ref="expositions"/>
-    <file name="contact.css" crc="4290402065" ref="contact"/>
+    <file name="contact.css" crc="3976349155" ref="contact"/>
     <file name="algemene-voorwaarden.css" crc="3797523677" ref="algemene-voorwaarden"/>
-    <file name="daiane-hemerich.css" crc="331215677" ref="daiane-hemerich"/>
+    <file name="daiane-hemerich.css" crc="407356404" ref="daiane-hemerich"/>
     <file name="about.css" crc="4150604254" ref="about"/>
     <file name="het-schetsboek.css" crc="19268388" ref="het-schetsboek"/>
     <file name="commissioned.css" crc="308560234" ref="commissioned"/>
@@ -176,7 +176,7 @@
       <caption webpage="interactive" alt=""/>
       <caption webpage="interactive" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -184,7 +184,7 @@
       <caption webpage="books" alt=""/>
       <caption webpage="expositions" alt=""/>
       <caption webpage="expositions" alt=""/>
-      <caption webpage="algemene-voorwaarden" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="mail.jpg" crc="4253827084" seo="true" ref="home:phone>index:phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:phone>gedichten:phone>een-kleine-gebeurtenis-kopie:phone>onderweg:phone>bestempeld:phone>tas-radio:phone>blokkendoos:phone>fortuna-beads:phone>krant:phone>raymond-carver-kopie:phone>daiane-hemerich:phone>het-schetsboek:phone>op-reis:phone>monotype:phone>de-visuele-boodschap:phone>tulpen:phone>handleiding:phone>postnatale-depressie:phone>het-grote-letterboek:phone>spanjer-accountants:phone>salario:phone>elisa:phone>botje:phone>expositions:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:hartfalen:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos:books:interactive:logos:paintings:video-s:expositions:contact:algemene-voorwaarden:daiane-hemerich:about:het-schetsboek:commissioned">
       <caption webpage="op-reis" alt=""/>
@@ -196,8 +196,7 @@
       <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-11" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
@@ -208,32 +207,32 @@
       <caption webpage="monotype" alt=""/>
       <caption webpage="salario" alt=""/>
       <caption webpage="salario" alt=""/>
+      <caption webpage="naamloos-13" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="krant" alt=""/>
+      <caption webpage="krant" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="hartfalen" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-8" alt=""/>
       <caption webpage="tulpen" alt=""/>
       <caption webpage="tulpen" alt=""/>
+      <caption webpage="hartfalen" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="handleiding" alt=""/>
       <caption webpage="handleiding" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="naamloos-13" alt=""/>
       <caption webpage="naamloos-5" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="blokkendoos" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
@@ -260,7 +259,8 @@
       <caption webpage="onderweg" alt=""/>
       <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
-      <caption webpage="naamloos-11" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
     </file>
@@ -274,8 +274,7 @@
       <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-11" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
@@ -286,32 +285,32 @@
       <caption webpage="monotype" alt=""/>
       <caption webpage="salario" alt=""/>
       <caption webpage="salario" alt=""/>
+      <caption webpage="naamloos-13" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="krant" alt=""/>
+      <caption webpage="krant" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="hartfalen" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-8" alt=""/>
       <caption webpage="tulpen" alt=""/>
       <caption webpage="tulpen" alt=""/>
+      <caption webpage="hartfalen" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="handleiding" alt=""/>
       <caption webpage="handleiding" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="naamloos-13" alt=""/>
       <caption webpage="naamloos-5" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="blokkendoos" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
@@ -338,7 +337,8 @@
       <caption webpage="onderweg" alt=""/>
       <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
-      <caption webpage="naamloos-11" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
     </file>
@@ -352,8 +352,7 @@
       <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-11" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
@@ -364,32 +363,32 @@
       <caption webpage="monotype" alt=""/>
       <caption webpage="salario" alt=""/>
       <caption webpage="salario" alt=""/>
+      <caption webpage="naamloos-13" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="krant" alt=""/>
+      <caption webpage="krant" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="hartfalen" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-8" alt=""/>
       <caption webpage="tulpen" alt=""/>
       <caption webpage="tulpen" alt=""/>
+      <caption webpage="hartfalen" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="handleiding" alt=""/>
       <caption webpage="handleiding" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="naamloos-13" alt=""/>
       <caption webpage="naamloos-5" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="blokkendoos" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
@@ -416,7 +415,8 @@
       <caption webpage="onderweg" alt=""/>
       <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
-      <caption webpage="naamloos-11" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
     </file>
@@ -536,8 +536,7 @@
       <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-11" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
@@ -548,32 +547,32 @@
       <caption webpage="monotype" alt=""/>
       <caption webpage="salario" alt=""/>
       <caption webpage="salario" alt=""/>
+      <caption webpage="naamloos-13" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="krant" alt=""/>
+      <caption webpage="krant" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="hartfalen" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-8" alt=""/>
       <caption webpage="tulpen" alt=""/>
       <caption webpage="tulpen" alt=""/>
+      <caption webpage="hartfalen" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="handleiding" alt=""/>
       <caption webpage="handleiding" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="naamloos-13" alt=""/>
       <caption webpage="naamloos-5" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="blokkendoos" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
@@ -600,7 +599,8 @@
       <caption webpage="onderweg" alt=""/>
       <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
-      <caption webpage="naamloos-11" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
     </file>
@@ -614,8 +614,7 @@
       <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-11" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
@@ -626,32 +625,32 @@
       <caption webpage="monotype" alt=""/>
       <caption webpage="salario" alt=""/>
       <caption webpage="salario" alt=""/>
+      <caption webpage="naamloos-13" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="krant" alt=""/>
+      <caption webpage="krant" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="hartfalen" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-8" alt=""/>
       <caption webpage="tulpen" alt=""/>
       <caption webpage="tulpen" alt=""/>
+      <caption webpage="hartfalen" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="handleiding" alt=""/>
       <caption webpage="handleiding" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="naamloos-13" alt=""/>
       <caption webpage="naamloos-5" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="blokkendoos" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
@@ -678,7 +677,8 @@
       <caption webpage="onderweg" alt=""/>
       <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
-      <caption webpage="naamloos-11" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
     </file>
@@ -692,8 +692,7 @@
       <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-11" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
       <caption webpage="raymond-carver-kopie" alt=""/>
@@ -704,32 +703,32 @@
       <caption webpage="monotype" alt=""/>
       <caption webpage="salario" alt=""/>
       <caption webpage="salario" alt=""/>
+      <caption webpage="naamloos-13" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="tas-radio" alt=""/>
+      <caption webpage="krant" alt=""/>
+      <caption webpage="krant" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="tas-radio" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="krant" alt=""/>
-      <caption webpage="hartfalen" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-8" alt=""/>
       <caption webpage="tulpen" alt=""/>
       <caption webpage="tulpen" alt=""/>
+      <caption webpage="hartfalen" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="handleiding" alt=""/>
       <caption webpage="handleiding" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="video-s" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="naamloos-13" alt=""/>
       <caption webpage="naamloos-5" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="video-s" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="blokkendoos" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
@@ -756,7 +755,8 @@
       <caption webpage="onderweg" alt=""/>
       <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
-      <caption webpage="naamloos-11" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
     </file>
@@ -1543,31 +1543,31 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cv.gif" crc="112097192" seo="true" ref="phone>index:phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:phone>gedichten:phone>een-kleine-gebeurtenis-kopie:phone>onderweg:phone>bestempeld:phone>tas-radio:phone>blokkendoos:phone>fortuna-beads:phone>krant:phone>raymond-carver-kopie:phone>daiane-hemerich:phone>het-schetsboek:phone>op-reis:phone>monotype:phone>de-visuele-boodschap:phone>tulpen:phone>handleiding:phone>postnatale-depressie:phone>het-grote-letterboek:phone>spanjer-accountants:phone>salario:phone>elisa:phone>botje:phone>expositions:home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos:books:interactive:logos:paintings:video-s:expositions:contact:algemene-voorwaarden:daiane-hemerich:about:het-schetsboek:commissioned">
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-7" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="handleiding" alt=""/>
+      <caption webpage="handleiding" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
-      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="naamloos-5" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="blokkendoos" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="gedichten" alt=""/>
       <caption webpage="gedichten" alt=""/>
-      <caption webpage="blokkendoos" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
-      <caption webpage="op-reis" alt=""/>
-      <caption webpage="op-reis" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-10" alt=""/>
       <caption webpage="monotype" alt=""/>
       <caption webpage="monotype" alt=""/>
@@ -1585,66 +1585,66 @@
       <caption webpage="krant" alt=""/>
       <caption webpage="paintings" alt=""/>
       <caption webpage="paintings" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-12" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-15" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="naamloos-7" alt=""/>
-      <caption webpage="onderweg" alt=""/>
-      <caption webpage="onderweg" alt=""/>
+      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="tulpen" alt=""/>
+      <caption webpage="tulpen" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="naamloos-4" alt=""/>
-      <caption webpage="elisa" alt=""/>
-      <caption webpage="elisa" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="naamloos-14" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="naamloos-5" alt=""/>
-      <caption webpage="tulpen" alt=""/>
-      <caption webpage="tulpen" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
+      <caption webpage="onderweg" alt=""/>
+      <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
       <caption webpage="naamloos-11" alt=""/>
     </file>
     <file name="cv.jpg" crc="373274098" seo="true" ref="phone>index:phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:phone>gedichten:phone>een-kleine-gebeurtenis-kopie:phone>onderweg:phone>bestempeld:phone>tas-radio:phone>blokkendoos:phone>fortuna-beads:phone>krant:phone>raymond-carver-kopie:phone>daiane-hemerich:phone>het-schetsboek:phone>op-reis:phone>monotype:phone>de-visuele-boodschap:phone>tulpen:phone>handleiding:phone>postnatale-depressie:phone>het-grote-letterboek:phone>spanjer-accountants:phone>salario:phone>elisa:phone>botje:phone>expositions:home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos:books:interactive:logos:paintings:video-s:expositions:contact:algemene-voorwaarden:daiane-hemerich:about:het-schetsboek:commissioned">
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-7" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="handleiding" alt=""/>
+      <caption webpage="handleiding" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
-      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="naamloos-5" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="blokkendoos" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="gedichten" alt=""/>
       <caption webpage="gedichten" alt=""/>
-      <caption webpage="blokkendoos" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
-      <caption webpage="op-reis" alt=""/>
-      <caption webpage="op-reis" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-10" alt=""/>
       <caption webpage="monotype" alt=""/>
       <caption webpage="monotype" alt=""/>
@@ -1662,66 +1662,66 @@
       <caption webpage="krant" alt=""/>
       <caption webpage="paintings" alt=""/>
       <caption webpage="paintings" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-12" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-15" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="naamloos-7" alt=""/>
-      <caption webpage="onderweg" alt=""/>
-      <caption webpage="onderweg" alt=""/>
+      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="tulpen" alt=""/>
+      <caption webpage="tulpen" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="naamloos-4" alt=""/>
-      <caption webpage="elisa" alt=""/>
-      <caption webpage="elisa" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="naamloos-14" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="naamloos-5" alt=""/>
-      <caption webpage="tulpen" alt=""/>
-      <caption webpage="tulpen" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
+      <caption webpage="onderweg" alt=""/>
+      <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
       <caption webpage="naamloos-11" alt=""/>
     </file>
     <file name="in.gif" crc="192662978" seo="true" ref="phone>index:phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:phone>gedichten:phone>een-kleine-gebeurtenis-kopie:phone>onderweg:phone>bestempeld:phone>tas-radio:phone>blokkendoos:phone>fortuna-beads:phone>krant:phone>raymond-carver-kopie:phone>daiane-hemerich:phone>het-schetsboek:phone>op-reis:phone>monotype:phone>de-visuele-boodschap:phone>tulpen:phone>handleiding:phone>postnatale-depressie:phone>het-grote-letterboek:phone>spanjer-accountants:phone>salario:phone>elisa:phone>botje:phone>expositions:home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos:books:interactive:logos:paintings:video-s:expositions:contact:algemene-voorwaarden:daiane-hemerich:about:het-schetsboek:commissioned">
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-7" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="handleiding" alt=""/>
+      <caption webpage="handleiding" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
-      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="naamloos-5" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="blokkendoos" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="gedichten" alt=""/>
       <caption webpage="gedichten" alt=""/>
-      <caption webpage="blokkendoos" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
-      <caption webpage="op-reis" alt=""/>
-      <caption webpage="op-reis" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-10" alt=""/>
       <caption webpage="monotype" alt=""/>
       <caption webpage="monotype" alt=""/>
@@ -1739,66 +1739,66 @@
       <caption webpage="krant" alt=""/>
       <caption webpage="paintings" alt=""/>
       <caption webpage="paintings" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-12" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-15" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="naamloos-7" alt=""/>
-      <caption webpage="onderweg" alt=""/>
-      <caption webpage="onderweg" alt=""/>
+      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="tulpen" alt=""/>
+      <caption webpage="tulpen" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="naamloos-4" alt=""/>
-      <caption webpage="elisa" alt=""/>
-      <caption webpage="elisa" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="naamloos-14" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="naamloos-5" alt=""/>
-      <caption webpage="tulpen" alt=""/>
-      <caption webpage="tulpen" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
+      <caption webpage="onderweg" alt=""/>
+      <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
       <caption webpage="naamloos-11" alt=""/>
     </file>
     <file name="in.jpg" crc="256715865" seo="true" ref="phone>index:phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:phone>gedichten:phone>een-kleine-gebeurtenis-kopie:phone>onderweg:phone>bestempeld:phone>tas-radio:phone>blokkendoos:phone>fortuna-beads:phone>krant:phone>raymond-carver-kopie:phone>daiane-hemerich:phone>het-schetsboek:phone>op-reis:phone>monotype:phone>de-visuele-boodschap:phone>tulpen:phone>handleiding:phone>postnatale-depressie:phone>het-grote-letterboek:phone>spanjer-accountants:phone>salario:phone>elisa:phone>botje:phone>expositions:home:naamloos-4:naamloos-5:naamloos-6:naamloos-7:naamloos-8:naamloos-9:naamloos-10:naamloos-11:naamloos-12:naamloos-13:naamloos-14:naamloos-15:naamloos-16:naamloos-18:naamloos-19:naamloos-20:naamloos-21:index:tulpen:spanjer-accountants:botje:bestempeld:de-visuele-boodschap:op-reis:onderweg:tas-radio:fortuna-beads:gedichten:een-kleine-gebeurtenis-kopie:raymond-carver-kopie:krant:monotype:salario:elisa:handleiding:postnatale-depressie:het-grote-letterboek:blokkendoos:books:interactive:logos:paintings:video-s:expositions:contact:algemene-voorwaarden:daiane-hemerich:about:het-schetsboek:commissioned">
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="interactive" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
-      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="naamloos-7" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="expositions" alt=""/>
+      <caption webpage="handleiding" alt=""/>
+      <caption webpage="handleiding" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="logos" alt=""/>
-      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="naamloos-5" alt=""/>
       <caption webpage="naamloos-21" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
-      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="blokkendoos" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="het-schetsboek" alt=""/>
       <caption webpage="daiane-hemerich" alt=""/>
       <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="gedichten" alt=""/>
       <caption webpage="gedichten" alt=""/>
-      <caption webpage="blokkendoos" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
+      <caption webpage="de-visuele-boodschap" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="het-grote-letterboek" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
       <caption webpage="fortuna-beads" alt=""/>
-      <caption webpage="op-reis" alt=""/>
-      <caption webpage="op-reis" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="naamloos-10" alt=""/>
       <caption webpage="monotype" alt=""/>
       <caption webpage="monotype" alt=""/>
@@ -1816,37 +1816,37 @@
       <caption webpage="krant" alt=""/>
       <caption webpage="paintings" alt=""/>
       <caption webpage="paintings" alt=""/>
-      <caption webpage="spanjer-accountants" alt=""/>
       <caption webpage="naamloos-12" alt=""/>
       <caption webpage="naamloos-16" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="naamloos-15" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="naamloos-7" alt=""/>
-      <caption webpage="onderweg" alt=""/>
-      <caption webpage="onderweg" alt=""/>
+      <caption webpage="naamloos-8" alt=""/>
+      <caption webpage="tulpen" alt=""/>
+      <caption webpage="tulpen" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="een-kleine-gebeurtenis-kopie" alt=""/>
       <caption webpage="naamloos-19" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="botje" alt=""/>
       <caption webpage="naamloos-4" alt=""/>
-      <caption webpage="elisa" alt=""/>
-      <caption webpage="elisa" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
+      <caption webpage="postnatale-depressie" alt=""/>
       <caption webpage="naamloos-14" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="expositions" alt=""/>
-      <caption webpage="expositions" alt=""/>
+      <caption webpage="interactive" alt=""/>
+      <caption webpage="interactive" alt=""/>
       <caption webpage="naamloos-18" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="handleiding" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="naamloos-5" alt=""/>
-      <caption webpage="tulpen" alt=""/>
-      <caption webpage="tulpen" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="elisa" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="op-reis" alt=""/>
+      <caption webpage="spanjer-accountants" alt=""/>
+      <caption webpage="onderweg" alt=""/>
+      <caption webpage="onderweg" alt=""/>
       <caption webpage="naamloos-20" alt=""/>
       <caption webpage="naamloos-11" alt=""/>
     </file>
@@ -1859,13 +1859,13 @@
       <caption webpage="interactive" alt=""/>
       <caption webpage="interactive" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="algemene-voorwaarden" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="train.jpg" crc="139477457" seo="true" ref="phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:home:books:interactive:logos:paintings:video-s:contact:algemene-voorwaarden:about:commissioned">
       <caption webpage="paintings" alt=""/>
@@ -1876,13 +1876,13 @@
       <caption webpage="interactive" alt=""/>
       <caption webpage="interactive" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="algemene-voorwaarden" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="hoofdstuk-5-(final).jpg" crc="3982492642" seo="true" ref="phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:home:books:interactive:logos:paintings:video-s:contact:algemene-voorwaarden:about:commissioned">
       <caption webpage="paintings" alt=""/>
@@ -1893,13 +1893,13 @@
       <caption webpage="interactive" alt=""/>
       <caption webpage="interactive" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="algemene-voorwaarden" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="harfalen-hf-1.jpg" crc="4133916408" seo="true" ref="phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:home:books:interactive:logos:paintings:video-s:contact:algemene-voorwaarden:about:commissioned">
       <caption webpage="paintings" alt=""/>
@@ -1910,13 +1910,13 @@
       <caption webpage="interactive" alt=""/>
       <caption webpage="interactive" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="algemene-voorwaarden" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="eindwerk-elisa-calamita-4.jpg" crc="4194122732" seo="true" ref="phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:home:books:interactive:logos:paintings:video-s:contact:algemene-voorwaarden:about:commissioned">
       <caption webpage="paintings" alt=""/>
@@ -1927,13 +1927,13 @@
       <caption webpage="interactive" alt=""/>
       <caption webpage="interactive" alt=""/>
       <caption webpage="commissioned" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="algemene-voorwaarden" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="video-s" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="algemene-voorwaarden" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="knop - cirkel.svg" crc="4166185150" ref="phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:home:books:interactive:logos:paintings:video-s:contact:algemene-voorwaarden:about:commissioned"/>
     <file name="knop - cirkel_poster_u12332.png" crc="3843965456" ref="phone>home:phone>commissioned:phone>video-s:phone>paintings:phone>logos:phone>interactive:phone>books:phone>contact:phone>algemene-voorwaarden:phone>about:home:books:interactive:logos:paintings:video-s:contact:algemene-voorwaarden:about:commissioned"/>
@@ -2456,7 +2456,6 @@
     <file name="daiane-2.jpg" crc="4180738932" seo="true" ref="daiane-hemerich">
       <caption webpage="daiane-hemerich" alt=""/>
     </file>
-    <file name="u22835-22.png" crc="4226999045" ref="daiane-hemerich"/>
     <file name="daiane-.jpg" crc="4237541298" seo="true" ref="daiane-hemerich">
       <caption webpage="daiane-hemerich" alt=""/>
     </file>
@@ -2559,9 +2558,9 @@
   <file name="paintings.html" crc="3959165496" seo="true" mt="1537541721372" redirect="true"/>
   <file name="video-s.html" crc="4109581166" seo="true" mt="1537541703707" redirect="true"/>
   <file name="expositions.html" crc="154145192" seo="true" mt="1537541193201" redirect="true"/>
-  <file name="contact.html" crc="4277905290" seo="true" mt="1537546464922" redirect="true"/>
+  <file name="contact.html" crc="4172586901" seo="true" mt="1537546973915" redirect="true"/>
   <file name="algemene-voorwaarden.html" crc="491711896" seo="true" mt="1537542627694" redirect="true"/>
-  <file name="daiane-hemerich.html" crc="305915955" seo="true" mt="1537541193201" redirect="true"/>
+  <file name="daiane-hemerich.html" crc="192889579" seo="true" mt="1537547004056" redirect="true"/>
   <file name="about.html" crc="4054167643" seo="true" mt="1537542646364" redirect="true"/>
   <file name="het-schetsboek.html" crc="85486908" seo="true" mt="1537541193201" redirect="true"/>
   <file name="commissioned.html" crc="515436816" seo="true" mt="1537543931025" redirect="true"/>
